@@ -3,4 +3,4 @@
 # QR Code Generator
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-`This project will be updated for typescript.`
+`This project will be updated to TypeScript.`
