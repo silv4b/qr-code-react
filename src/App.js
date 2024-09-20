@@ -7,7 +7,7 @@ import "./App.css";
 export default function App() {
     const [qrCodeValue, setQrCodeValue] = useState("");
     const [linkQrCode, setQrCodeLink] = useState("");
-    const [hideDownloadButton, setHideDownloadButton] = useState(true);
+    const [hideDownloadButton, setHideDownloadButton] = useState(false);
 
     function handleQrCode(evt) {
         const qr_code_aux = evt.target.value.trim();
